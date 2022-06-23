@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 08 hello
+chmod 008 hello
