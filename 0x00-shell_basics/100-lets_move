@@ -1,0 +1,2 @@
+#!/bin/bash
+mv *.random /tmp/u
