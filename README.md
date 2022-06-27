@@ -1,1 +1,0 @@
-shell O/I Redirections
